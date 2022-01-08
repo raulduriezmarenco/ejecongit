@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+ 
+    <title> LISTA DE HTML  </title>
+
+</head>
+
+
+<body> 
+
+    ORDEN DE LISTA:
+
+    <OL> 
+    
+        <LI>PRIMER ITEM </LI>
+        <Li>SEGUNDO ITEM </Li>
+        <Li>TERCER ITEM </Li>
+    
+    </OL>
+
+</body>
+
+
+
+ </html>
